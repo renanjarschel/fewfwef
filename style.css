@@ -2,15 +2,15 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo: #b8ff97;
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --borda: #e1ff90b6;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
 
-*{
+*{cu
     font-weight: 400;
 }
 
